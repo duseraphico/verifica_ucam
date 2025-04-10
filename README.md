@@ -2,60 +2,7 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Certificado de Validação</title>
-    <style>
-        body {
-            font-family: "Georgia", serif;
-            background: #f8f8f8;
-            padding: 40px;
-        }
-        .certificado {
-            background: white;
-            border: 2px solid #800000;
-            padding: 40px;
-            max-width: 800px;
-            margin: auto;
-            box-shadow: 0 0 15px rgba(0,0,0,0.2);
-            position: relative;
-        }
-        .titulo {
-            text-align: center;
-            font-size: 28px;
-            font-weight: bold;
-            color: #800000;
-            margin-bottom: 20px;
-        }
-        .logo {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .logo img {
-            max-height: 80px;
-        }
-        .info {
-            font-size: 18px;
-            line-height: 1.6;
-        }
-        .info span {
-            font-weight: bold;
-        }
-        .footer {
-            text-align: center;
-            font-size: 12px;
-            margin-top: 30px;
-            color: #666;
-        }
-        .selo {
-            position: absolute;
-            right: 40px;
-            top: 40px;
-            background: #800000;
-            color: white;
-            padding: 10px 20px;
-            font-weight: bold;
-            transform: rotate(10deg);
-        }
-    </style>
+    
 </head>
 <body>
     <div class="certificado">
