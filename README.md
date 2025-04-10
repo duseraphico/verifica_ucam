@@ -24,10 +24,5 @@
             Universidade Cândido Mendes – www.candidomendes.edu.br
         </div>
     </div>
-    <script>
-        const now = new Date();
-        const formatDate = now.toLocaleString("pt-BR", { dateStyle: "short", timeStyle: "short" });
-        document.getElementById("timestamp").textContent = formatDate;
-    </script>
 </body>
 </html>
